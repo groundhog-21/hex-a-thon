@@ -1,0 +1,31 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.dll
+*.egg-info/
+
+# ===== Virtual environments =====
+.venv/
+venv/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== VS Code =====
+.vscode/
+*.code-workspace
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Data =====
+data/raw/
+data/processed/
+
+# ===== Logs / temp =====
+*.log
+*.tmp
