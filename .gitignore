@@ -23,8 +23,10 @@ Thumbs.db
 desktop.ini
 
 # ===== Data =====
-data/raw/
-data/processed/
+data/
+
+# ===== Internal planning / AI-provided files =====
+files_provided_to_ai/
 
 # ===== Logs / temp =====
 *.log
