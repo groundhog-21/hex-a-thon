@@ -17,6 +17,10 @@ venv/
 .vscode/
 *.code-workspace
 
+# ===== Clipchamp (video editing artifacts) =====
+Clipchamp/
+*.clipchamp
+
 # ===== OS =====
 .DS_Store
 Thumbs.db
