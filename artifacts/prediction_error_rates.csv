@@ -1,0 +1,7 @@
+Sex,Passenger class,Number_of_passengers,Prediction_Error_Rate
+Female,1st class,94,0.05319148936170213
+Female,2nd class,76,0.07894736842105263
+Female,3rd class,144,0.4027777777777778
+Male,1st class,122,0.3770491803278688
+Male,2nd class,108,0.17592592592592593
+Male,3rd class,347,0.15273775216138327

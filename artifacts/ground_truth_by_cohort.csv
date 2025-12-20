@@ -1,0 +1,7 @@
+Sex,Passenger class,Total_Passengers,Survivors,Non_survivors,Survival_Rate
+Female,1st class,94,91,3,0.9680851063829787
+Female,2nd class,76,70,6,0.9210526315789473
+Female,3rd class,144,72,72,0.5
+Male,1st class,122,45,77,0.36885245901639346
+Male,2nd class,108,17,91,0.1574074074074074
+Male,3rd class,347,47,300,0.13544668587896252

@@ -1,0 +1,7 @@
+{
+  "oof_accuracy": 0.813692480359147,
+  "oof_accuracy_display": "0.81",
+  "evaluation_type": "offline",
+  "evaluation_method": "10-fold stratified cross-validation (OOF)",
+  "note": "Accuracy computed offline using out-of-fold predictions from a StandardScaler + RandomForest pipeline. This metric is provided for context and is not recomputed in the app."
+}
