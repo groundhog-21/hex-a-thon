@@ -21,6 +21,13 @@ venv/
 Clipchamp/
 *.clipchamp
 
+# ===== Clipchamp (video editing artifacts) =====
+Clipchamp/
+*.clipchamp
+
+# Early project notes / AI working documents (not part of final deliverable)
+files_provided_to_ai/
+
 # ===== OS =====
 .DS_Store
 Thumbs.db
